@@ -1,4 +1,4 @@
-CrappyBird
+FlappyBird
 ==========
 
 Clone of Flappy Bird game in JavaScript and Canvas 2D
@@ -16,11 +16,11 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 **Here are some screen shots**
 
-![Heat map classic theme](https://github.com/varunpant/CrappyBird/blob/master/SS1.PNG?raw=true=50x20)
-![Heat map classic theme](https://github.com/varunpant/CrappyBird/blob/master/SS2.PNG?raw=true=50x20)
+![Heat map classic theme](https://dakshcodess.github.io/Flappy-Bird/blob/master/SS1.PNG?raw=true=50x20)
+![Heat map classic theme](https://dakshcodess.github.io/Flappy-Bird/blob/master/SS2.PNG?raw=true=50x20)
 
-![Heat map classic theme](https://github.com/varunpant/CrappyBird/blob/master/SS3.PNG?raw=true=50x20)
-![Heat map classic theme](https://github.com/varunpant/CrappyBird/blob/master/SS4.PNG?raw=true=50x20)
+![Heat map classic theme](https://dakshcodess.github.io/Flappy-Bird/blob/master/SS3.PNG?raw=true=50x20)
+![Heat map classic theme](https://dakshcodess.github.io/Flappy-Bird/blob/master/SS4.PNG?raw=true=50x20)
 
 
 Play it [here](https://dakshcodess.github.io/Flappy-Bird/index.html)
